@@ -1,7 +1,9 @@
 # Chat_Famous
 核心代码在main.py文件中
 ## 目前实现效果如下（示例截图）
-![image](https://github.com/dushuyizhi233-cloud/Chat_Famous/assets/61072937/8f2cf2cb-ef9a-4de4-97ca-9849c8819ffc)
+目前使用的是河南话语音库
+https://github.com/dushuyizhi233-cloud/Chat_Famous/assets/61072937/2ba8d3ff-6214-4eac-843f-4b2793ec01d0
+
 
 ## 说明
 1.需要本地部署Stable Diffusion Web-UI
